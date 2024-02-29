@@ -8,7 +8,7 @@ So the steps are:
 - Compute eigenvalues of the hessian of the image.
 - Filter the image
 
-There are links:
+Sources of implementation:
 - hessian filter in numpy: https://stackoverflow.com/questions/31206443/numpy-second-derivative-of-a-ndimensional-array
 - hessian filter: https://github.com/scikit-image/scikit-image/blob/v0.22.0/skimage/filters/ridges.py#L172
 - hessian matrix: https://github.com/scikit-image/scikit-image/blob/v0.22.0/skimage/feature/corner.py#L225
